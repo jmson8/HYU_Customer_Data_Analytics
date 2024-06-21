@@ -1,0 +1,12 @@
+name: Q2_Penguins
+title: Q2_Penguins
+username: jmson8
+account: jmson8
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12217433
+bundleId: 8773567
+url: https://jmson8.shinyapps.io/Q2_Penguins/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
