@@ -3,7 +3,7 @@
 <hr>
 
 * Q1. 로또 당첨번호 크롤링 후 시각화 <br>
-[Result](https://jmson8.github.io/HYU_DS/Q1_Lotto.html)
+[Result](https://jmson8.github.io/HYU_Customer_Data_Analytics/Q1_Lotto.html)
 
 <br>
 
